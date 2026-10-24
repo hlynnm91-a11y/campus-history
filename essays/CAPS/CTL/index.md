@@ -2,7 +2,7 @@
 # Change these five lines as soon as you copy this starter.
 title: CAPS/CTL
 author: Heather McCuistion
-category: Starter Essay                  # change to a category from the student guide
+category: Campus Services                 # change to a category from the student guide
 header-image: sample-archive-photo.jpg   # the filename of your own image
 header-caption: Replace with where your header image came from. Plain text only, no links.
 
