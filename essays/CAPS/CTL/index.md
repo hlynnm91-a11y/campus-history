@@ -12,7 +12,29 @@ start:                                   # the year your story begins, shown on 
 
 # Leave this line as it is.
 layout: essay
----
+---The history of academic support and peer tutoring at the University of New Mexico (UNM) is anchored by the evolution of the Center for Academic Program Support (CAPS) and its transformation into the modern Center for Teaching and Learning (CTL). For decades, these programs have served as foundational pillars for undergraduate retention, student success, and collaborative learning across the Albuquerque campus.
+
+Origins and the Founding of CAPS (1979)
+The institutional roots of undergraduate academic assistance at UNM trace back to 1979, when the Center for Academic Program Support (CAPS) was officially established [1.1.5]. Created to bridge gaps in undergraduate education and promote equity in retention, CAPS was designed to offer free-of-charge peer tutoring, study groups, and skill-building workshops for students enrolled in undergraduate courses (traditionally numbered 100 through 399) [1.2.1, 1.2.5].
+
+Throughout the late 20th and early 21st centuries, CAPS grew into a prominent fixture of campus life, establishing its primary physical headquarters on the third floor of Zimmerman Library [1.2.5]. Staffed primarily by upper-division undergraduate and graduate students who underwent intensive pedagogical training, the program earned national certification from institutions like the College Reading and Learning Association (CRLA) [1.2.5]. Over the years, CAPS expanded its delivery methods beyond traditional drop-in and one-on-one sessions to include Supplemental Instruction (SI), specialized writing support, and modern digital platforms such as its Online Writing Lab (OWL) [1.2.3, 1.2.5].
+
+The Evolution into the Center for Teaching and Learning (2015)
+A major structural evolution occurred in 2015, when UNM consolidated its academic resources by merging CAPS with broader undergraduate teaching initiatives to formally establish the Center for Teaching and Learning (CTL) [1.1.1].
+
+While the historical undergraduate tutoring functions commonly referred to as CAPS remained a core service, the structural shift under CTL aimed to create a more comprehensive hub supporting both sides of the classroom [1.1.2]. Located prominently in spaces like the lower level of Centennial Library (L185), CTL expanded to integrate specialized services such as STEM Tutoring, Learning Strategies, the Center for Digital Learning, and the Graduate Resource Center [1.1.4, 1.1.5, 1.2.1].
+
+Impact and Contemporary Operations
+In its modern iteration, CTL provides peer tutoring and structured academic support across more than 800 individual courses each semester [1.1.3]. Institutional metrics consistently highlight that undergraduate students who regularly utilize CTL resources achieve higher GPA averages and graduate at faster rates compared to non-users [1.1.3]. By blending the historic student-centered peer tutoring philosophy of 1979 CAPS with modern digital accessibility and teaching support, CTL remains a cornerstone of student persistence at UNM.
+
+Sources and Further Reading
+UNM Center for Teaching & Learning: Mission & History [1.1.1, 1.1.5]
+
+UNM Center for Teaching & Learning: Undergraduate Support Services [1.1.3, 1.1.4]
+
+UNM Digital Repository: Assurance Argument for CAPS Structure [1.2.5]
+
+UNM Online Lobo Blog: Services Spotlight on CTL (2022) [1.1.2]
 
 This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
