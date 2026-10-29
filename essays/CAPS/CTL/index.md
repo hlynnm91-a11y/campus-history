@@ -3,8 +3,8 @@
 title: CAPS/CTL
 author: Heather McCuistion
 category: Campus Services                 # change to a category from the student guide
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+header-image: zimmerman-library.jpg   # the filename of your own image
+header-caption: John Tatchel, The History of Writing
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
