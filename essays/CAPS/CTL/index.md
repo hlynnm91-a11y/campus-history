@@ -12,7 +12,7 @@ start:                                   # the year your story begins, shown on 
 
 # Leave this line as it is.
 layout: essay
----The history of academic support and peer tutoring at the University of New Mexico (UNM) is anchored by the evolution of the Center for Academic Program Support (CAPS) and its transformation into the modern Center for Teaching and Learning (CTL). For decades, these programs have served as foundational pillars for undergraduate retention, student success, and collaborative learning across the Albuquerque campus.
+--- The history of academic support and peer tutoring at the University of New Mexico (UNM) is anchored by the evolution of the Center for Academic Program Support (CAPS) and its transformation into the modern Center for Teaching and Learning (CTL). For decades, these programs have served as foundational pillars for undergraduate retention, student success, and collaborative learning across the Albuquerque campus.
 
 Origins and the Founding of CAPS (1979)
 The institutional roots of undergraduate academic assistance at UNM trace back to 1979, when the Center for Academic Program Support (CAPS) was officially established [1.1.5]. Created to bridge gaps in undergraduate education and promote equity in retention, CAPS was designed to offer free-of-charge peer tutoring, study groups, and skill-building workshops for students enrolled in undergraduate courses (traditionally numbered 100 through 399) [1.2.1, 1.2.5].
