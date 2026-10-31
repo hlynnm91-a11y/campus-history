@@ -1,6 +1,6 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: CAPS/CTL
+title: CAPS-CTL
 author: Heather McCuistion
 category: Campus Services                 # change to a category from the student guide
 header-image: zimmerman-library.jpg   # the filename of your own image
